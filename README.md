@@ -1,2 +1,3 @@
 # gdrive
-My compiled version of gdrive CLI
+GDrive CLI with my gdrive keys
+Sorce code here- https://github.com/gdrive-org/gdrive
